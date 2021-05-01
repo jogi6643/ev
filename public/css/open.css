@@ -1,0 +1,70 @@
+#livesearchdata
+{
+    position: relative;z-index: 20;
+}
+#searchlist
+{
+    display:none;background-color:#fff;margin-bottom:-153px;margin-left:-200px;z-index: 35; width: 200px;border: 1px solid #adb5b1;position: relative;
+}
+/* .fakeimg {
+    height: 200px;
+    background-color: rgb(161, 21, 21);
+    background-image: url('../images/car-158795_640.png');
+    background-repeat: no-repeat;
+  } */
+  .image
+  {
+    /* background-color: rgb(161, 21, 21); */
+    /* background-image: url('../images/car-158795_640.png'); */
+    background-repeat: no-repeat;
+  }
+  #mainbodyimage
+  {
+     /* background-image: url('../images/buildings-1851246_1280.jpg'); */
+     font-family: 'Merriweather', serif;
+    background-repeat: no-repeat;
+    /* background-color:#f0f7ff; */
+  }
+  .hometext
+  {
+    color:red;
+  }
+  .secondmenubar
+  {
+    display: flex;
+    background-color:rgb(51 56 62);
+  }
+  ul .box
+  {
+    list-style: none;
+    margin: 2px 9px 0px;
+    padding: 10px 103px;
+  }
+  ul li a
+  {
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+  }
+  ul li a:hover
+  {
+    color: rgb(80, 77, 77);
+  }
+
+  .card
+  {
+     margin: 10px;
+    /* padding: 2px 9px; */
+  }
+  .card-title
+  {
+    text-align: center;
+    border: 1px solid black;
+    border: 2px dotted #70c1bb !important;
+  }
+  .comparecarbtn
+  {
+    text-align: center;
+    display: block;
+    margin: auto;
+  }

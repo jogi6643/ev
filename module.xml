@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Supermodule>
+	 <Module>
+	     <id>1</id>
+		 <modulename>Dashboard</modulename>
+		 <rights>
+		  <name>View</name>
+		<name>Modify</name>
+		 </rights>
+		 
+    </Module>
+	<Module>
+	     <id>2</id>
+		 <modulename>Attribute</modulename>
+		  <rights>
+		   
+		  <name>View</name>
+		   <name>Modify</name>
+		 </rights>
+		
+    </Module>
+	<Module>
+	     <id>3</id>
+		 <modulename>Category</modulename>
+		 <rights>
+		   
+		    <name>View</name>
+		   <name>Modify</name>
+		 </rights>
+		
+    </Module>
+
+	
+</Supermodule>
